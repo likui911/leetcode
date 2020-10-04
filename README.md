@@ -5,6 +5,7 @@ LeetCode
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|6|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [cpp](./algorithms/cpp/mergeSortedArray.cpp/) | Easy |
 |5|[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [cpp](./algorithms/cpp/duplicateZeros.cpp/) | Easy |
 |4|[977. Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[cpp](./algorithms/cpp/squaresOfASortedArray.cpp)|Easy|
 |3|[1295. Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[cpp](./algorithms/cpp/findNumbersWithEcenNumberOfDigits.cpp)|Easy|
