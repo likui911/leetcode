@@ -5,6 +5,7 @@ LeetCode
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|12| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [javascript](./algorithms/javascript/moveZeroes.js) | Easy |
 |11|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[javascript](./algorithms/javascript/replaceElementsWithGreatestElementOnRightSide.js)|Easy|
 |10|[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[javascript](./algorithms/javascript/checkIfNAndItsDoubleExist.js)|Easy|
 |9|[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[cpp](./algorithms/cpp/validMountainArray.cpp)| Easy |
