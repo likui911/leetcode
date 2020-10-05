@@ -8,7 +8,7 @@ LeetCode
 |11|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[javascript](./algorithms/javascript/replaceElementsWithGreatestElementOnRightSide.js)|Easy|
 |10|[1346. Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)|[javascript](./algorithms/javascript/checkIfNAndItsDoubleExist.js)|Easy|
 |9|[941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/)|[cpp](./algorithms/cpp/validMountainArray.cpp)| Easy |
-|8|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./algorithms/cpp/removeDuplicatesFromSortedArray.cpp/) | Easy |
+|8|[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)| [cpp](./algorithms/cpp/removeDuplicatesFromSortedArray.cpp/),[javascript](./algorithms/javascript/removeDuplicatesFromSortedArray.js/) | Easy |
 |7|[27. Remove Element](https://leetcode.com/problems/remove-element/)| [cpp](./algorithms/cpp/removeElement.cpp/) | Easy |
 |6|[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [cpp](./algorithms/cpp/mergeSortedArray.cpp/) | Easy |
 |5|[1089. Duplicate Zeros](https://leetcode.com/problems/duplicate-zeros/)| [cpp](./algorithms/cpp/duplicateZeros.cpp/) | Easy |
