@@ -5,6 +5,7 @@ LeetCode
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|14|[1051. Height Checker](https://leetcode.com/problems/height-checker/)|[javascript](./algorithms/javascript/heightChecker.js)|Easy|
 |13|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[javascript](./algorithms/javascript/sortArrayByParity.js)|Easy|
 |12| [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [javascript](./algorithms/javascript/moveZeroes.js) | Easy |
 |11|[1299. Replace Elements with Greatest Element on Right Side](https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/)|[javascript](./algorithms/javascript/replaceElementsWithGreatestElementOnRightSide.js)|Easy|
