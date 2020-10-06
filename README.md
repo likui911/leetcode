@@ -5,6 +5,7 @@ LeetCode
 ### LeetCode Algorithm
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|16|[448. Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)|[javascript](./algorithms/javascript/findAllNumbersDisappearedinAnArray.js)|Easy|
 |15|[414. Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)|[javascript](./algorithms/javascript/thirdMaximumNumber.js)|Easy|
 |14|[1051. Height Checker](https://leetcode.com/problems/height-checker/)|[javascript](./algorithms/javascript/heightChecker.js)|Easy|
 |13|[905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/)|[javascript](./algorithms/javascript/sortArrayByParity.js)|Easy|
